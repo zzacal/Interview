@@ -1,0 +1,11 @@
+{
+  "name": "airplanesjs",
+  "version": "1.0.0",
+  "description": "An interview exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zac Zacal <jizacal@gmail.com> (https://github.com/zzacal)",
+  "license": "ISC"
+}
