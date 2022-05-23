@@ -7,5 +7,7 @@ export type Airplane = {
 export class AirplaneService {
   save(airplane: Airplane) {}
 
-  get(id: any) {}
+  get(id: any): Airplane {
+    return {};
+  }
 }
